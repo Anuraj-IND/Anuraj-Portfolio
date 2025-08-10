@@ -14,7 +14,7 @@ export const dialogueData = {
   bed: `This is where I crash, and ironically, where I get the best project ideas.
     Half the time I’m grabbing my phone at 2 AM to note them down before they vanish into the void.`,
 resume: `This is my desk — and on it, my resume. 
-<a href="/Anuraj%20Maddheshiya.pdf" target="_blank">Open resume</a>
+<a href="https://github.com/Anuraj-IND/Anuraj-Portfolio/blob/main/public/Anuraj%20Maddheshiya.pdf" target="_blank">Open resume</a>
 — I’ll keep it updated!`,
 
 
